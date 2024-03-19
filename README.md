@@ -4,6 +4,9 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on heart disease. 
 
+Heart disease is a leading cause of death for people of most races in the United States. About half of all Americans (47%) have at least 1 of 3 major risk factors for heart disease: high blood pressure, high cholesterol, and smoking. Other key indicators include diabetes status, obesity (high BMI), not getting enough physical activity, or drinking too much alcohol. Identifying and preventing the factors that have greatest impact on heart disease is very important in healthcare. 
+
+
 # Contributors
 
 @WeiYu -
@@ -12,6 +15,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 # Problem Definition
+How can we help individuals to determine their probability of having heart attack/disease using our model as a preliminary check.
 
 
 # Models Used
@@ -33,4 +37,4 @@ to be filled
 
 # References
 
-to be filled
+https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
