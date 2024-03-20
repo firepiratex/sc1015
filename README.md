@@ -15,7 +15,7 @@ Heart disease is a leading cause of death for people of most races in the United
 
 
 # Problem Definition
-How can we help individuals to determine their probability of having heart attack/disease using our model as a preliminary check.
+How can we help individuals to determine if they are at high risk of heart attack/disease using our model as a preliminary check.
 
 
 # Models Used
